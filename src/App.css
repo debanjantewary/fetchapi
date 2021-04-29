@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap");
+.App {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0a1322;
+    min-height: 100vh;
+    color: whitesmoke;
+}
+.getbtn {
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    color: whitesmoke;
+    font-weight: 500;
+    border: none;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+
+.cbimg {
+    height: 100px;
+    width: 50px;
+}
+
+.profile-card {
+    padding: 30px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.intro-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-div > h2 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+
+/* loader */
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 30px;
+    height: 40px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
