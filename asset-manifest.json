@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fetchapi/static/css/main.1611137a.chunk.css",
+    "main.js": "/fetchapi/static/js/main.a6417acd.chunk.js",
+    "main.js.map": "/fetchapi/static/js/main.a6417acd.chunk.js.map",
+    "runtime-main.js": "/fetchapi/static/js/runtime-main.1d0996ad.js",
+    "runtime-main.js.map": "/fetchapi/static/js/runtime-main.1d0996ad.js.map",
+    "static/js/2.e5b9bbcd.chunk.js": "/fetchapi/static/js/2.e5b9bbcd.chunk.js",
+    "static/js/2.e5b9bbcd.chunk.js.map": "/fetchapi/static/js/2.e5b9bbcd.chunk.js.map",
+    "static/js/3.26ad6d6a.chunk.js": "/fetchapi/static/js/3.26ad6d6a.chunk.js",
+    "static/js/3.26ad6d6a.chunk.js.map": "/fetchapi/static/js/3.26ad6d6a.chunk.js.map",
+    "index.html": "/fetchapi/index.html",
+    "static/css/main.1611137a.chunk.css.map": "/fetchapi/static/css/main.1611137a.chunk.css.map",
+    "static/js/2.e5b9bbcd.chunk.js.LICENSE.txt": "/fetchapi/static/js/2.e5b9bbcd.chunk.js.LICENSE.txt",
+    "static/media/carbon.10ad99fa.png": "/fetchapi/static/media/carbon.10ad99fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d0996ad.js",
+    "static/js/2.e5b9bbcd.chunk.js",
+    "static/css/main.1611137a.chunk.css",
+    "static/js/main.a6417acd.chunk.js"
+  ]
+}
